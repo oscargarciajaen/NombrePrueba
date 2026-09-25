@@ -1,6 +1,6 @@
 ---
-name: Plantilla issues
-about: Describe this issue template's purpose here.
+name: Tarea
+about: Una tarea del tablero
 title: ''
 labels: ''
 assignees: ''
