@@ -16,4 +16,4 @@ Si una persona no aporta tiene 3 avisos.
 
 ## Calidad
 Debe tener la información bien escrita y detallada de una manera fácil de entender.
-Otro miembro o varios de ellos revisarán cuidadosamente dicho PR para ver si cumple los controles de calidad si no los tiene o el equipo puede ver una mejora se volverá a hacer teniendo en cuenta dichos problemas o mejoras el contenido
+Otro miembro o varios de ellos revisarán cuidadosamente dicho PR para ver si cumple los controles de calidad si no los tiene o el equipo puede ver una mejora se volverá a hacer teniendo en cuenta dichos problemas o mejoras el contenido.
