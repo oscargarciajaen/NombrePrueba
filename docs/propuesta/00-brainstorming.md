@@ -1,3 +1,4 @@
+
 ## Idea de ismael
 Una aplicación web para decidir a que jugar mediante un pequeño cuestionario y el tiempo que tienes para jugar
 # Quien lo sufre  
@@ -13,3 +14,4 @@ https://hardzone.es/noticias/juegos/steam-juegos-comprados-no-jugados/
 
 Hoy en dia los juegos duran mucho más y al tener musica juegos para elegir muchos optan por no jugar como con netflix
 https://www.vidaextra.com/listas/a-que-jugar-cuando-no-sabes-a-que-jugar
+
