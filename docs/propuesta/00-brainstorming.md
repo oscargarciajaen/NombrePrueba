@@ -30,3 +30,20 @@ La frecuencia depende del usuario y de la frecuencia con la que quiera platinar 
 **¿Cuál es el impacto?**
 
 Un ahorro de tiempo para conseguir la meta que seria en este caso platinar un juego.
+
+## Idea de ismael
+
+Una aplicación web para decidir a que jugar mediante un pequeño cuestionario y el tiempo que tienes para jugar
+
+**¿Quién lo sufre?**
+
+Personas con tiempo limitado y que no sepan a qué jugar por indecisión
+
+**¿Con qué frecuencia?**
+
+Suele ocurrir con mucha frecuencia hay mucha gente que tiene muchos juegos sin empezar y nunca los acaban jugando por indecisión
+
+**¿Cuál es el impacto?**
+
+Que al final no acaban jugando a nada y pierden el tiempo o se ponen a mirar reels o tiktok sin haber jugado a nada
+
