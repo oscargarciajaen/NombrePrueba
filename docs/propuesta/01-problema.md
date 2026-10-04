@@ -98,3 +98,26 @@ Muestra trofeos y estadísticas de varias plataformas, pero no ofrece recorridos
 ## Nuestro valor diferencial: 
 
 Integrar en una sola app la unificación de catálogos, la guía optimizada para platinar y un recomendador basado en tu tiempo libre y tu estado anímico.
+
+# Propuesta de valor
+
+## ¿Que es y para que sirve?
+Nuestra propuesta de valor es una aplicación web que te ayude a decidir a que jugar y como completar tus juegos al maximo
+
+El usuario puede conectar su perfil de la plataforma donde quiere jugar y le brindara un cuestionario junto al tiempo que tiene para jugar. A partir de la respuesta se le dará un videojuego de su biblioteca para que el lo juegue evitando el problema de saber a que jugar al tener muchas opciones.
+
+Además junto a la recomendación del juego te vendrá una ruta de como ir desbloqueando los logros y secretos del juego para que no te pierdas nada y puedas seguir si te quedas atrapado o quieres completarlo al 100%
+
+## Elementos clave
+
+- **Cliente ideal:** Jugadores de Steam y PlayStation que tienen muchos juegos y no saben cuál empezar, o que disfrutan completando sus juegos al 100 %.
+
+- **Problema:** Tener demasiados juegos entre los que elegir puede generar indecisión y hacer que no sepamos qué jugar. Además, conseguir todos los logros y secretos de un juego puede resultar complicado y requerir buscar información en diferentes páginas.
+
+- **Solución o resultado:** La aplicación recomienda qué jugar en función de los gustos del usuario y le proporciona una ruta para completar el juego, conseguir sus logros y descubrir sus secretos. También ofrece ayuda cuando el jugador se queda atascado.
+
+- **Diferenciador:** La aplicación reúne en un mismo lugar la recomendación de juegos, la planificación para completarlos al 100 % y la ayuda durante la partida, ofreciendo una experiencia más sencilla y personalizada que tener que buscar toda esta información por separado.
+
+## Resumen
+
+Con esta web podríamos ayudar a las personas con indecisión al tener muchas cosas que jugar pero poco tiempo para hacerlo junto también a las personas que quieren completar los juegos al 100% o no perder ningun secreto
