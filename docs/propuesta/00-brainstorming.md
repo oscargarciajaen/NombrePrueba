@@ -47,3 +47,14 @@ Suele ocurrir con mucha frecuencia hay mucha gente que tiene muchos juegos sin e
 
 Que al final no acaban jugando a nada y pierden el tiempo o se ponen a mirar reels o tiktok sin haber jugado a nada
 
+## Idea de Laura
+Una aplicación para llevar el seguimiento de series que, al retomar una que dejaste en pausa, te hace un resumen de lo que pasó solo hasta el episodio en el que vas, sin spoilers. Además, genera un mapa de relaciones entre personajes que va cambiando según los episodios que has visto. Además de incluir: marcar episodios vistos, avisar cuando sale una nueva temporada o al dejar la serie sin ver en un periodo de tiempo, valorar de 1 a 5 estrellas y escribir notas personales.
+
+**¿Quién lo sufre?**
+Los espectadores de series, sobre todo los que ven varias a la vez o los que retoman una serie cuando sale una temporada nueva.
+
+**¿Con qué frecuencia?**
+Semanalmente, cada vez que retoman una serie tras una pausa, y más cuando se estrena una temporada nueva.
+
+**¿Cuál es el impacto?**
+Pérdida de tiempo y de disfrute, hay que buscar resúmenes en YouTube o wikis que además destripan lo que viene después, o bien se ve la serie sin acordarse de qué pasó y de cómo se llevaban los personajes. En algunos casos se abandona la serie por sentirse perdido.
