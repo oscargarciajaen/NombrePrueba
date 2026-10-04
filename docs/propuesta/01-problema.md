@@ -34,8 +34,6 @@ https://www.reddit.com/r/Trophies/comments/1krkjco/discussion_relatively_new_to_
 
 https://www.reddit.com/r/backloggd/comments/1t6c42h/choice_paralysis/#:~:text=%E2%80%A2%20Edited%205mo%20ago.%20if%20you%20haven't,games%20at%20all.%20Trying%20to%20be%20realistic.
 
-
-
 # Usuarios objetivo
 
 ## User personas
@@ -82,3 +80,21 @@ https://www.reddit.com/r/backloggd/comments/1t6c42h/choice_paralysis/#:~:text=%E
 4. Seguir la ruta paso a paso y marcar lo completado.
 5. Recibir un aviso antes de un punto de no retorno (por ejemplo: "este trofeo se pierde si avanzas al siguiente capítulo").
 6. Consultar cómo conseguir un trofeo concreto sin que se revele la trama.
+
+# 3 competidores
+
+## 1º Playnite:
+
+Unifica los juegos de distintas plataformas para crear una plataforma de juegos centralizada.
+
+## 2º Backloggd / Stash: 
+
+Organiza listas de juegos pendientes de forma manual y social, pero sin guías paso a paso ni recomendaciones contextuales.
+
+## 3º Exophase / PSNProfiles: 
+
+Muestra trofeos y estadísticas de varias plataformas, pero no ofrece recorridos interactivos ni gestiona qué jugar según tu tiempo.
+
+## Nuestro valor diferencial: 
+
+Integrar en una sola app la unificación de catálogos, la guía optimizada para platinar y un recomendador basado en tu tiempo libre y tu estado anímico.
