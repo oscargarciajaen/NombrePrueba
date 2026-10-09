@@ -58,3 +58,19 @@ Semanalmente, cada vez que retoman una serie tras una pausa, y más cuando se es
 
 **¿Cuál es el impacto?**
 Pérdida de tiempo y de disfrute, hay que buscar resúmenes en YouTube o wikis que además destripan lo que viene después, o bien se ve la serie sin acordarse de qué pasó y de cómo se llevaban los personajes. En algunos casos se abandona la serie por sentirse perdido.
+
+## Idea Final
+
+Una plataforma web enfocada en conectar a particulares, aficionados al motor y profesionales para la compraventa, intercambio o localización de piezas y recambios de coche. La aplicación incluye un sistema de mensajería directa entre usuarios supervisado por una inteligencia artificial que analiza las conversaciones en segundo plano para detectar fraudes, discusiones o lenguaje inapropiado y emitir alertas automáticas a los administradores. Además de incluir: catálogo categorizado de piezas con filtros avanzados por marca/modelo/año, perfiles de usuario con valoraciones de fiabilidad, sistema de alertas automáticas para piezas difíciles de encontrar y un panel de moderación para que los administradores gestionen las incidencias reportadas por la IA.
+
+**¿Quién lo sufre?**
+
+ Propietarios de coches, restauradores de clásicos, mecánicos particulares y aficionados al motor que buscan repuestos descatalogados, de segunda mano o a buen precio entre particulares y despieces.
+
+ **¿Con qué frecuencia?**
+
+ Ocasional o continuada; cada vez que surge una avería, un proyecto de reparación, restauración o modificación de un vehículo, o de forma regular para personas que se dedican al despiece o compraventa de repuestos.
+
+ **¿Cuál es el impacto?**
+
+  Pérdida de tiempo en plataformas de segunda mano genéricas donde abunda el contenido poco específico, alto riesgo de estafas o de adquirir piezas incompatibles/defectuosas, y tratos frustrantes con intermediarios o usuarios conflictivos por falta de moderación directa y especializada en las negociaciones. En muchos casos, los proyectos quedan parados o los usuarios terminan pagando precios excesivos en concesionarios oficiales por no encontrar una alternativa segura.
