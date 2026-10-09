@@ -105,3 +105,21 @@ Negociación asistida y segura: Conversar por mensajería integrada donde la IA 
 Verificación de fiabilidad: Consultar el perfil de vendedores o compradores con historial de transacciones, valoraciones y sellos de confianza.
 
 Panel de moderación activo: Los administradores reciben avisos prioritarios generados por la IA para intervenir o mediar en incidencias antes de que se consume un fraude o conflicto grave.
+
+#### 3 competidores
+
+1º Wallapop / Milanuncios:
+
+Portales de compraventa generalistas con gran volumen de usuarios, pero sin categorización técnica para mecánica, con filtros deficientes para compatibilidad y sin moderación activa en tiempo real contra fraudes en chats.
+
+2º Oscaro / Autodoc:
+
+Tiendas de recambios nuevos con catálogos estructurados por matrícula o modelo, pero centradas únicamente en piezas nuevas de consumo masivo, sin compraventa entre particulares, sin piezas descatalogadas ni mercado de segunda mano o despieces.
+
+3º RecambioVerde / EcoOpArts:
+
+Plataformas de desguaces homologados (CATs). Aunque ofrecen piezas usadas y verificadas, excluyen el trato, compraventa o intercambio directo entre particulares, aficionados y restauradores independientes.
+
+#### Nuestro valor diferencial:
+
+La combinación de un marketplace vertical especializado en piezas (con filtros exhaustivos de compatibilidad y sistema de alertas de piezas escasas) junto a una capa de seguridad basada en IA que audita las conversaciones en segundo plano para prevenir fraudes, malas prácticas y agresiones en tiempo real.
