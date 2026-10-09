@@ -37,3 +37,71 @@ Ahorra costes directos frente a recambios oficiales sin sacrificar la compatibil
 "Llevo tres meses buscando un colector de admisión específico para mi coche clásico en portales de segunda mano genéricos. La mitad de los anuncios no especifican año ni referencia, y en dos ocasiones casi me estafan pidiéndome pagos por bizum adelantados." — Testimonio en comunidad de restauración de vehículos.
 
 "Comprar piezas de despiece a distancia es una lotería. O te mandan una versión que no encaja con tu bastidor o cuando llega rota el vendedor desaparece y la plataforma no se hace responsable." — Reseña habitual en foros de mecánica y motor.
+
+### Usuarios objetivo
+
+**User personas**
+
+### Persona 1: El Restaurador / Aficionado al motor
+
+Perfil: Persona apasionada de la automoción que dedica su tiempo libre y fines de semana a restaurar o modificar vehículos clásicos o de altas prestaciones.
+
+Necesidades
+
+Localizar piezas raras, descatalogadas o variantes muy específicas por compatibilidad técnica exacta (marca, modelo, año, código de motor/chasis).
+
+Recibir alertas inmediatas cuando un vendedor publique una pieza difícil de encontrar.
+
+Comunicarse de forma transparente y segura con vendedores fiables.
+
+Frustraciones
+
+Pierde horas filtrando anuncios mal clasificados en webs generalistas donde solo ponen descripciones ambiguas.
+
+Miedo constante a pagar por piezas reacondicionadas o incompatibles que se venden como originales.
+
+Lidiar con vendedores poco serios que cancelan envíos o no detallan el estado real de la pieza.
+
+Objetivos
+
+Disponer de un catálogo técnico especializado que asegure la compatibilidad antes de comprar.
+
+Configurar alertas de piezas difíciles y avanzar en sus proyectos de restauración sin bloqueos.
+
+### Persona 2: El Conductor con avería / Presupuesto limitado
+
+Perfil: Particular que utiliza su coche a diario para trabajar o desplazarse y sufre una avería inesperada fuera de garantía con un presupuesto ajustado.
+
+Necesidades
+
+Encontrar un recambio funcional al mejor precio posible para reparar su vehículo sin demoras.
+
+Saber si el vendedor es de confianza antes de transferir dinero o cerrar el trato.
+
+Evitar discusiones y situaciones de riesgo de estafa en la negociación.
+
+Frustraciones
+
+Presupuestos inasumibles en talleres oficiales o piezas nuevas de fábrica.
+
+Desconocimiento técnico que le hace vulnerable a engaños o compras de piezas incorrectas.
+
+Falta de protección y soporte si surge un problema o conflicto durante el trato con particulares.
+
+Objetivos
+
+Encontrar la pieza correcta a buen precio en pocos clics.
+
+Cerrar la compra a través de un canal seguro y supervisado que prevenga fraudes.
+
+### Casos de uso principales
+
+Búsqueda técnica avanzada: Filtrar piezas por marca, modelo, año, categoría mecánica y código **OEM**/referencia.
+
+Creación de alertas de stock: Activar una alerta personalizada para piezas difíciles o descatalogadas que notifique al usuario en cuanto alguien publique el recambio.
+
+Negociación asistida y segura: Conversar por mensajería integrada donde la IA analiza en segundo plano indicios de estafa (solicitudes de pagos externos, comportamientos sospechosos o lenguaje agresivo) y alerta al equipo de moderación.
+
+Verificación de fiabilidad: Consultar el perfil de vendedores o compradores con historial de transacciones, valoraciones y sellos de confianza.
+
+Panel de moderación activo: Los administradores reciben avisos prioritarios generados por la IA para intervenir o mediar en incidencias antes de que se consume un fraude o conflicto grave.
