@@ -123,3 +123,27 @@ Plataformas de desguaces homologados (CATs). Aunque ofrecen piezas usadas y veri
 #### Nuestro valor diferencial:
 
 La combinación de un marketplace vertical especializado en piezas (con filtros exhaustivos de compatibilidad y sistema de alertas de piezas escasas) junto a una capa de seguridad basada en IA que audita las conversaciones en segundo plano para prevenir fraudes, malas prácticas y agresiones en tiempo real.
+
+
+### Propuesta de valor
+
+¿Qué es y para qué sirve?
+
+Nuestra propuesta de valor es una plataforma web especializada que conecta a particulares, aficionados al motor y profesionales para la búsqueda, compraventa e intercambio de piezas y recambios de coche de forma rápida, técnica y segura.
+
+El usuario puede buscar recambios específicos utilizando filtros avanzados por vehículo y activar alertas para piezas difíciles de encontrar. Al mismo tiempo, dispone de un sistema de mensajería supervisado por una inteligencia artificial que protege las negociaciones frente a fraudes, disputas o conductas abusivas, facilitando la intervención temprana de los moderadores.
+
+##### Elementos clave
+
+Cliente ideal: Propietarios de coches, aficionados al motor, restauradores de clásicos y mecánicos independientes que necesitan repuestos específicos, usados o descatalogados y valoran la seguridad y la precisión técnica.
+
+Problema: Encontrar piezas de recambio compatibles en plataformas generalistas es lento, frustrante y expone a los usuarios a estafas, incompatibilidades y negociaciones conflictivas.
+
+Solución o resultado: Un marketplace estructurado que permite localizar recambios con precisión de ficha técnica, automatizar avisos para piezas escasas y negociar con tranquilidad en un entorno protegido por IA.
+
+Diferenciador: La especialización automotriz con catálogo técnico combinado con la supervisión inteligente de las conversaciones por IA para garantizar tratos seguros y alertas automáticas a moderadores.
+
+#### Resumen
+
+Una solución integral que optimiza la compraventa de recambios eliminando las búsquedas infructuosas y el riesgo de fraude, permitiendo a los apasionados del motor y conductores resolver sus averías o completar sus proyectos con total confianza y agilidad.
+
